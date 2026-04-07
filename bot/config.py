@@ -15,7 +15,7 @@ API_HASH = os.environ.get("API_HASH", "8dc570c08d8e35e88fb9bfc73c65d7fa")
 # Your db channel Id
 LOG_CHANNEL = int(os.environ.get("CHANNEL_ID", "-1003515041061"))  # Placeholder channel ID
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "7892805795")
+OWNER = os.environ.get("OWNER", "@anujedits76")
 # OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "7892805795"))  # Placeholder owner ID
 # Port
