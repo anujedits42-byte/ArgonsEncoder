@@ -8,7 +8,7 @@ from database import full_userbase, add_user
 
 log = LOGGER(__name__)
 
-START_IMG = "https://i.ibb.co/RGJnsfC6/monkey-d-luffy-red-3840x2160-24473.png"
+START_IMG = "https://files.catbox.moe/fgc2ou.jpg"
 
 START_TEXT = """
 <b>⚡ Auto Rename Bot</b>
@@ -25,7 +25,7 @@ Capable of high-speed encoding and seamless file management.
 """
 
 HELP_TEXT = """
-<blockquote><b>🛠️ Command Arsenal:</b>
+<blockquote><b>🛠️ Command :</b>
 
 <code>/start</code> - Initialize System
 <code>/help</code> - Access Manual
@@ -43,9 +43,9 @@ ABOUT_TEXT = """
 <b>Engine:</b> <code>Pyrogram + FFmpeg</code>
 
 <blockquote>🔗 <b>Links:</b>
-• <a href="https://t.me/fair_bots">Main Channel</a>
-• <a href="https://t.me/reactiveargon">Developer</a>
-• <a href="https://t.me/fair_bot_support">Support Group</a></blockquote>
+• <a href="https://t.me/anujedits76">Main Channel</a>
+• <a href="https://t.me/anujedits76">Developer</a>
+• <a href="https://t.me/anuj_group_channel">Support Group</a></blockquote>
 """
 
 TUTORIAL_TEXT = """
@@ -67,7 +67,7 @@ The bot will process your video and send it back!</blockquote>
 """
 
 FEATURES_TEXT = """
-<b>🚀 Argons Encoder: The Ultimate Video Automation Bot</b>
+<b>🚀 Anuj Encoder: The Ultimate Video Automation Bot</b>
 
 <blockquote>Transform your Telegram workflow with professional-grade encoding! 🎬
 
@@ -79,7 +79,7 @@ FEATURES_TEXT = """
 
 <i>Fast, stable, and fully customizable.</i> 🌟
 
-Developed by @REACTIVEARGON</blockquote>
+Developed by @anujedits76</blockquote>
 """
 
 
